@@ -50,6 +50,14 @@
 1. [Tailscaleのダウンロードサイト](https://tailscale.com/download)からお使いのOSに合わせてインストーラを落としてくる
 2. インストール画面で指示に従ってインストール(以下参考画像)
 
+![install](/assets/image/install.png)
+
 3. インストールが完了したらhogehogeを押してブラウザからTailscaleにログイン
 
-4. 以下のような画面になればOK
+![finish](/assets/image/finish_install.png)
+
+4. アンケートみたいなのが出てくるので適当に回答
+
+5. 以下のような画面が出てくれば終了
+
+![console](/assets/image/console.png)
