@@ -52,7 +52,7 @@
 
 ![install](/assets/image/install.png)
 
-3. インストールが完了したらhogehogeを押してブラウザからTailscaleにログイン
+3. インストールが完了したらSign in to your networkを押してブラウザからTailscaleにログイン
 
 ![finish](/assets/image/finish_install.png)
 
